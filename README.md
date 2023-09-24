@@ -1,2 +1,2 @@
-# Libriary
-Libriary
+# Library
+Library
